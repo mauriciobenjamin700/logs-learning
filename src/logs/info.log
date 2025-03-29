@@ -1,5 +1,6 @@
-LOG_INFO---test_action---test_local---test_agente---test_role---0.123456---2025-03-29 17:44:23
-LOG_INFO---test_action---test_local---test_agente---test_role---0.123456---2025-03-29 17:44:42
-LOG_INFO---test_action---test_local---test_agente---test_role---0.123456---2025-03-29 17:44:43
-LOG_INFO---test_action---test_local---test_agente---test_role---0.123456---2025-03-29 17:45:12
-LOG_INFO---test_action---test_local---test_agente---test_role---0.123456---2025-03-29 17:45:33
+2025-03-29 17:50:18,717---INFO---test_action---test_local---test_agente---test_role---0.123456
+2025-03-29 17:50:44,167---INFO---test_action---test_local---test_agente---test_role---0.123456
+2025-03-29 17:50:47,091---INFO---test_action---test_local---test_agente---test_role---0.123456
+2025-03-29 17:52:21,252---INFO---test_action---test_local---test_agente---test_role---0.123456
+2025-03-29 17:52:22,647---INFO---test_action---test_local---test_agente---test_role---0.123456
+2025-03-29 17:52:24,394---INFO---test_action---test_local---test_agente---test_role---0.123456
